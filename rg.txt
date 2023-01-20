@@ -1,0 +1,5 @@
+cloud-shell-storage-centralindia
+kartikay1
+myResourceGroup
+myRG
+myRG1
